@@ -8,6 +8,7 @@ Skills: PYTHON /FIREBASE / HTML / C++
 - 🤔 I’m looking for help with a web developer 
 - 💬 Ask me about Arduino/Python/Science Project 
 - 📫 How to reach me: sadmansakibmahi2@gmail.com 
+- 😄 Pronouns: Supercalifragilisticexpialidocious
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sadmansakibmahi2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/17601845/sadman-sakib-mahi)  
