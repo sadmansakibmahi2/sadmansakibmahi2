@@ -5,7 +5,7 @@ Skills: PYTHON /FIREBASE / HTML / C++
 
 - 🔭 I’m currently working on My python Project 
 - 🌱 I’m currently learning Artificial Intelligence, Firebase,Python 
-- 🤔 I’m looking for help with A web developer 
+- 🤔 I’m looking for help with a web developer 
 - 💬 Ask me about Arduino/Python/Science Project 
 - 📫 How to reach me: sadmansakibmahi2@gmail.com 
 
