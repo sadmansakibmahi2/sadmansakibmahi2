@@ -7,7 +7,7 @@ Skills: PYTHON /FIREBASE / HTML / C++
 - 🌱 I’m currently learning Artificial Intelligence, Firebase,Python 
 - 🤔 I’m looking for help with a web developer 
 - 💬 Ask me about Arduino/Python/Science Project 
-- 📫 How to reach me: sadmansakibmahi2@gmail.com 
+- 📫 How to reach me: sadmansakibmahi1@gmail.com 
 - 😄 Pronouns: Supercalifragilisticexpialidocious
 
 
