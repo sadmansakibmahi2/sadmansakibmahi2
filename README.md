@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Sadman Sakib Mahi
+## Hi there 👋, my name is Sadman Sakib Mahi
 I am a high school student living in Bangladesh. I love to work in the fields of IoT and Robotics. I am working to connect technology with agriculture.
 
 Skills: PYTHON /FIREBASE / HTML / C++
@@ -10,5 +10,8 @@ Skills: PYTHON /FIREBASE / HTML / C++
 - 📫 How to reach me: sadmansakibmahi1@gmail.com 
 - 😄 Pronouns: Supercalifragilisticexpialidocious
 
+###Connect with me: 
+
+[Kaggle](https://www.kaggle.com/sadmansakibmahi)
 
 ![Profile views](https://gpvc.arturio.dev/sadmansakibmahi2)  
